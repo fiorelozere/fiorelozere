@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fiorelo Zere</h1>
 <h3 align="center">A passionate frontend developer from Albania</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiorelozere" alt="fiorelozere" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Open source projects**
 

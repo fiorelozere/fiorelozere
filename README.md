@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fiorelo Zere</h1>
-<h3 align="center">A passionate frontend developer from Albania</h3>
-
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
